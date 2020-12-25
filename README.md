@@ -1,6 +1,8 @@
 <h1>Hello there🌌</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vladikasik&show_icons=true&theme=chartreuse-dark">
 <br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vladikasik&theme=chartreuse-dark">
+
 <h2>🐉Python🐉</h2>
     
   <a href="https://github.com/Vladikasik/Face-recognition">
