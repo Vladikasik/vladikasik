@@ -1,7 +1,7 @@
 <h1>Hello there🌌</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vladikasik&show_icons=true&theme=chartreuse-dark">
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=chartreuse-dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vladikasik&theme=chartreuse-dark">
 
 <h2>🐉Python🐉</h2>
     
