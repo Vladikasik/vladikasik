@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vladikasik&repo=Bean-coin&theme=chartreuse-dark">
    </a>
    
-   <h4>Django</h4>
+   <h4>🐲Django🐲</h4>
    <a href="https://github.com/Vladikasik/Django_learning">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vladikasik&repo=Django_learning&theme=chartreuse-dark">
    </a>
