@@ -36,4 +36,4 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vladikasik&repo=ainshtein-blog&theme=chartreuse-dark">
      </a>
 <br>
-![Profile views](https://gpvc.arturio.dev/vladikasik)
+![Profile views](https://gpvc.arturio.dev/Vladikasik)
