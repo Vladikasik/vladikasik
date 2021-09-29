@@ -13,6 +13,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vladikasik&repo=statistic&theme=chartreuse-dark">
   </a>
   
+  <a href="https://github.com/Smart-Control-System/ServerSystem">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Smart-Control-System&repo=ServerSystem&theme=chartreuse-dark">
+  </a>
+  
+  <a href="https://github.com/Cyberzhaba/my-front-is-shaved">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cyberzhaba&repo=my-front-is-shaved&theme=chartreuse-dark">
+  </a>
+  
   <a href="https://github.com/Vladikasik/Face-recognition">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vladikasik&repo=Face-recognition&theme=chartreuse-dark">
   </a>
